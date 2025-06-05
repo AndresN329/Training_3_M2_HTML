@@ -86,7 +86,9 @@ Esta landing page está diseñada para promocionar el producto **DJI Mini 4 Pro*
 📁 proyecto-dji-landing-page/
 │
 ├── index.html # Página principal
+
 ├── styles.css # Estilos CSS con media queries y animaciones
+
 └── README.md # Este documento
 
 ---
